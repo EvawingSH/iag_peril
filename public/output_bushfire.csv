@@ -1,0 +1,16 @@
+peril_category,factor,factor_group,median_premium_per_1m_aud
+bushfire,building_age,0-20,93.23474828710455
+bushfire,building_age,20-40,74.12554225714285
+bushfire,building_age,40-60,131.41623667618757
+bushfire,building_age,60-80,63.13366857835115
+bushfire,building_age,>80,78.80078056467892
+bushfire,construction_type,brick veneer,93.05790155902895
+bushfire,construction_type,double brick,30.045369335657867
+bushfire,construction_type,masonry,60.92853905130224
+bushfire,construction_type,unknown,95.13397949803559
+bushfire,construction_type,wood,80.6334965937034
+bushfire,number_of_stories,0,71.05391009815403
+bushfire,number_of_stories,1,83.70324468853353
+bushfire,number_of_stories,2,59.130070783555674
+bushfire,floor_height_in_metres,0-1,80.6334965937034
+bushfire,floor_height_in_metres,>1,39.812657127335484

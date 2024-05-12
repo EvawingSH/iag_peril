@@ -1,0 +1,16 @@
+peril_category,factor,factor_group,median_premium_per_1m_aud
+earthquake,building_age,0-20,47.23913227780734
+earthquake,building_age,20-40,55.938812820582584
+earthquake,building_age,40-60,58.94169936621425
+earthquake,building_age,60-80,45.26459959509668
+earthquake,building_age,>80,16.49274458208955
+earthquake,construction_type,brick veneer,50.5309285787867
+earthquake,construction_type,double brick,79.15398675869585
+earthquake,construction_type,masonry,45.26459959509668
+earthquake,construction_type,unknown,53.187387260218905
+earthquake,construction_type,wood,16.827422010727474
+earthquake,number_of_stories,0,37.659871120219435
+earthquake,number_of_stories,1,51.10001995871966
+earthquake,number_of_stories,2,56.47996078803744
+earthquake,floor_height_in_metres,0-1,51.90248743000561
+earthquake,floor_height_in_metres,>1,37.515425367463436

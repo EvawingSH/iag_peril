@@ -1,0 +1,16 @@
+peril_category,factor,factor_group,median_premium_per_1m_aud
+stormhail,building_age,0-20,7.560839079
+stormhail,building_age,20-40,16.57085626
+stormhail,building_age,40-60,14.12692477
+stormhail,building_age,60-80,4.31329743
+stormhail,building_age,>80,5.70112635
+stormhail,construction_type,brick veneer,10.722489765
+stormhail,construction_type,double brick,19.26479508
+stormhail,construction_type,masonry,12.37854448
+stormhail,construction_type,unknown,11.96610036
+stormhail,construction_type,wood,3.5227007645
+stormhail,number_of_stories,0,9.4131234485
+stormhail,number_of_stories,1,9.726372151
+stormhail,number_of_stories,2,15.74754918
+stormhail,floor_height_in_metres,0-1,10.99127982
+stormhail,floor_height_in_metres,>1,8.964133646499999

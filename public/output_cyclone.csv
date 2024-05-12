@@ -1,0 +1,16 @@
+peril_category,factor,factor_group,median_premium_per_1m_aud
+cyclone,building_age,0-20,
+cyclone,building_age,20-40,150.41632940992966
+cyclone,building_age,40-60,49.5652377126304
+cyclone,building_age,60-80,
+cyclone,building_age,>80,
+cyclone,construction_type,brick veneer,115.23386229083467
+cyclone,construction_type,double brick,
+cyclone,construction_type,masonry,
+cyclone,construction_type,unknown,11.24279595
+cyclone,construction_type,wood,
+cyclone,number_of_stories,0,
+cyclone,number_of_stories,1,19.079080253521127
+cyclone,number_of_stories,2,115.23386229083467
+cyclone,floor_height_in_metres,0-1,80.05139517173967
+cyclone,floor_height_in_metres,>1,

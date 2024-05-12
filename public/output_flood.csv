@@ -1,0 +1,16 @@
+peril_category,factor,factor_group,median_premium_per_1m_aud
+flood,building_age,0-20,111.7853409890512
+flood,building_age,20-40,1921.7429892265861
+flood,building_age,40-60,111.17415558559844
+flood,building_age,60-80,
+flood,building_age,>80,
+flood,construction_type,brick veneer,941.1553929812653
+flood,construction_type,double brick,
+flood,construction_type,masonry,
+flood,construction_type,unknown,623.5202241578745
+flood,construction_type,wood,58.580168335979124
+flood,number_of_stories,0,108.89475405055373
+flood,number_of_stories,1,941.1553929812653
+flood,number_of_stories,2,367.6023741985972
+flood,floor_height_in_metres,0-1,365.66636097583546
+flood,floor_height_in_metres,>1,1866.1246226433627
