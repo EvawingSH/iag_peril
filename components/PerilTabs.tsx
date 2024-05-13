@@ -2,6 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import React from "react";
 import BarChart from "./BarChart";
+import PerilSummaryComponent from "./Summary";
 
 // Define the interface for component props
 interface PerilTabsProps {
@@ -34,6 +35,7 @@ const PerilTabs: React.FC<PerilTabsProps> = ({ perilCategories }) => {
             value={perilCategory}
             className="space-y-4"
           >
+            <PerilSummaryComponent peril={perilCategory} />
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-7">
               <Card className="col-span-4">
                 <CardHeader>
@@ -47,7 +49,10 @@ const PerilTabs: React.FC<PerilTabsProps> = ({ perilCategories }) => {
                   <BarChart perilCategory={perilCategory} />
                 </CardContent>
               </Card>
+
+              
             </div>
+
           </TabsContent>
         ))}
       </Tabs>

@@ -2,6 +2,7 @@ import fs from "fs";
 import Papa from "papaparse";
 import path from "path";
 
+
 export default function handler(req, res) {
   const filePath = path.resolve("./public", "output_bushfire.csv");
   fs.readFile(filePath, "utf8", (err, csvStr) => {

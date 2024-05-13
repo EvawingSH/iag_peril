@@ -1,0 +1,25 @@
+{
+    "summary": [
+        {
+            "peril": "bushfire",
+            "summary": "Out of 106 policies, the bushfire premium costs around AUD 62.34 per 1M AUD insured on average. The type of construction matters most, with wood and brick veneer buildings posing higher risks compared to double brick ones."  
+        },
+        {
+            "peril": "flood",
+            "summary": "Among the 14 policies with flood premiums, the median technical rate stands at AUD 754.0 per 1M AUD insured. This higher rate compared to the other 4 perils reflects the increased likelihood and potential for significant financial losses associated with floods. While flood risk is typically influenced by factors such as elevation and construction type, the limited number of data points (only 13 out of 14 policies have floor heights recorded at 0.4m) prevents us from drawing meaningful conclusions based solely on these factors. However, upon examining the locations of these buildings on maps, it becomes evident that many of them are situated near water bodies or at lower elevations relative to their surroundings, thereby heightening their susceptibility to flooding."  
+        },
+        {
+            "peril": "cyclone",
+            "summary": "Only 5 policies include cyclone premiums, with a median technical rate of AUD 15.4 per 1M AUD insured. Due to the limited data, we cannot draw meaningful conclusions to examine the correlation between cyclone risk and the given factors. However, upon mapping these policies, it becomes evident that they are concentrated in or near Perth, located close to Wind Region B, which experiences a moderate risk of cyclone impact."  
+        },
+        {
+            "peril": "stormhail",
+            "summary": "All 400 policies include stormhail coverage, averaging AUD 245.9 per 1M AUD insured. The type of construction matters—double brick and brick veneer buildings are safer than wood ones. Also, buildings at lower elevations are more vulnerable, and taller buildings face higher risks due to more exposure to storm hail."  
+        },
+        {
+            "peril": "earthquake",
+            "summary": "Among 398 policies, earthquake premiums average AUD 34.0 per 1M AUD insured. The risk increases with the number of stories in a building, meaning taller buildings face higher risks."  
+        }
+
+    ]
+}
