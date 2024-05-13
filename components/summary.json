@@ -6,7 +6,7 @@
         },
         {
             "peril": "flood",
-            "summary": "Among the 14 policies with flood premiums, the median technical rate stands at AUD 754.0 per 1M AUD insured. This higher rate compared to the other 4 perils reflects the increased likelihood and potential for significant financial losses associated with floods. While flood risk is typically influenced by factors such as elevation and construction type, the limited number of data points (only 13 out of 14 policies have floor heights recorded at 0.4m) prevents us from drawing meaningful conclusions based solely on these factors. However, upon examining the locations of these buildings on maps, it becomes evident that many of them are situated near water bodies or at lower elevations relative to their surroundings, thereby heightening their susceptibility to flooding."  
+            "summary": "Among the 14 policies with flood premiums, the median technical rate stands at AUD 754.0 per 1M AUD insured. This higher rate compared to the other 4 perils reflects the increased likelihood and potential for significant financial losses associated with floods. While flood risk is typically influenced by factors such as elevation and construction type, the limited number of data points (13 out of 14 policies have floor heights recorded at 0.4m) prevents us from drawing meaningful conclusions based solely on these factors. However, upon examining the locations of these buildings on maps, it becomes evident that many of them are situated near water bodies or at lower elevations relative to their surroundings, thereby heightening their susceptibility to flooding."  
         },
         {
             "peril": "cyclone",
@@ -14,7 +14,7 @@
         },
         {
             "peril": "stormhail",
-            "summary": "All 400 policies include stormhail coverage, averaging AUD 245.9 per 1M AUD insured. The type of construction matters—double brick and brick veneer buildings are safer than wood ones. Also, buildings at lower elevations are more vulnerable, and taller buildings face higher risks due to more exposure to storm hail."  
+            "summary": "All 400 policies include stormhail coverage, averaging AUD 245.9 per 1M AUD insured. Buildings at lower elevations are more vulnerable, and taller buildings face higher risks due to more exposure to storm hail."  
         },
         {
             "peril": "earthquake",
