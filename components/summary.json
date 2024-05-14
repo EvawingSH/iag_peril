@@ -2,7 +2,7 @@
     "summary": [
         {
             "peril": "bushfire",
-            "summary": "Out of 106 policies, the bushfire premium costs around AUD 62.34 per 1M AUD insured on average. The type of construction matters most, with wood and brick veneer buildings posing higher risks compared to double brick ones."  
+            "summary": "Among 106 policies, the median bushfire premium costs approximately AUD 62.34 per 1M AUD insured. The type of construction matters most, with wood and brick veneer buildings posing higher risks compared to double brick ones."  
         },
         {
             "peril": "flood",
@@ -14,11 +14,11 @@
         },
         {
             "peril": "stormhail",
-            "summary": "All 400 policies include stormhail coverage, averaging AUD 245.9 per 1M AUD insured. Buildings at lower elevations are more vulnerable, and taller buildings face higher risks due to more exposure to storm hail."  
+            "summary": "All 400 policies include stormhail coverage, with a median cost of AUD 245.9 per 1M AUD insured. Buildings at lower elevations are more vulnerable, and taller buildings face higher risks due to more exposure to storm hail."  
         },
         {
             "peril": "earthquake",
-            "summary": "Among 398 policies, earthquake premiums average AUD 34.0 per 1M AUD insured. The risk increases with the number of stories in a building, meaning taller buildings face higher risks."  
+            "summary": "Among 398 policies, earthquake premiums have a median of AUD 34.0 per 1M AUD insured. The risk increases with the number of stories in a building, meaning taller buildings face higher risks."  
         }
 
     ]
